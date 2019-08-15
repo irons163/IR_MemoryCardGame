@@ -6,18 +6,18 @@
 - IR_MemoryCardGame is a memory card game for python console.
 
 ## Game Rule
-Default Game Board is 6x6.
-Select two cards, if they are match, open them, otherwise close.
-If all cards are open, then the player win.
+- Default Game Board is 6x6.
+- Select two cards, if they are match, open them, otherwise close.
+- If all cards are open, then the player win.
 
 ## Play
-Please input 1 number of position(col nubmer 1-6)
-Please input 1 number of position(row number 1-6)
-......
-The two selected cards are match./The two selected cards are not match.
-......
-You win.
-Play again? (Y/else)
+- Please input 1 number of position(col nubmer 1-6)
+- Please input 1 number of position(row number 1-6)
+- ......
+- The two selected cards are match./The two selected cards are not match.
+- ......
+- You win.
+- Play again? (Y/else)
 
-##ScreenShot
+## ScreenShot
 ![](/screenshot.png)
