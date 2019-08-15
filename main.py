@@ -8,8 +8,8 @@ def clear():
     os.system('cls' if os.name == 'nt' else 'clear')
 
 
-cardsBoardRows = 2
-cardsBoardCols = 2
+cardsBoardRows = 6
+cardsBoardCols = 6
 
 
 def createCards():
